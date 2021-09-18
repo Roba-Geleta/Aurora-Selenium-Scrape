@@ -1,12 +1,9 @@
 from selenium import webdriver
-from selenium.webdriver.common import keys
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.support.ui import Select
-from selenium.webdriver.firefox.options import Options
 import json
-import time
 
 '''
 used to traverse through the the courses and course description sent in through the parameter
