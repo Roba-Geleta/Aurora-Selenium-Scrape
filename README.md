@@ -25,7 +25,7 @@ If more than one terms are specified, the terms requested later on override the 
 
 + Ex. if Fall 2021 was traversed through first, then Winter 2021 is being traversed through next, for the similar courses both terms share (example, COMP 1012), the course description for COMP 1012 that is stored is the one from Winter 2021.
 
-+ There is a future plan to store the different course descrptions by terms if a difference exists. As of now, only ~3 courses have different course descriptions in both terms.
++ There is a future plan to store the different course descrptions by terms if a difference exists. As of now, only ~2 courses have different course descriptions in both terms.
 
 ***
 
