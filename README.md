@@ -1,6 +1,6 @@
 # Aurora-Selenium-Scrape
 
-This program is used to Scrape the aurora course catalog website, for the terms specified by the user.
+This program is used to Scrape the [aurora course catalog website](https://aurora.umanitoba.ca/banprod/bwckctlg.p_disp_cat_term_date), for the terms specified by the user.
 
 ***
 
